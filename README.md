@@ -1,6 +1,8 @@
 # Starter Web Repo
+This is a Git project which we are using a Sample project 
 
-This repository is for showing how Git and GitHub work
+## Introduction 
+a lot of lectures are already submitted
 
 ## Purpose
 
