@@ -4,7 +4,9 @@
 Hi I am modifing the file before rebase .
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Makki
+    makki0909099
+    DevOps Engineer
 
 # THANKS
 
