@@ -2,6 +2,10 @@
 # The humans responsible & technology colophon
 
 
+Hi, I'm modifying the file 
+
+Adding some notes to Stash
+
 # TEAM
 
     Makki
